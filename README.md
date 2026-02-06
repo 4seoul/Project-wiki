@@ -41,7 +41,7 @@ Hello wrld
   
   ### Projects
   <div align="center">
-    <a href="https://github.com/4seoul/ai-agent-project">Repo Link</a>
+    <a href="https://github.com/4seoul/ai-agent-project" target="_blank">Repo Link</a>
   </div>
 
   
