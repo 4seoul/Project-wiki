@@ -20,21 +20,21 @@ Hello wrld
 # :notebook_with_decorative_cover: Table of Contents
     
 - [Boot.dev](#boot-dev)
-  * [Progress](#progress)
-  * [Projects](#projects)
-  * [Certificates](#course-certificates)
+  * [Progress](#bootdev-progress)
+  * [Projects](#bootdev-projects)
+  * [Certificates](#bootdev-certificates)
 
 - [Comptia](#comptia)
-  * [Progress](#progress)
-  * [Projects](#projects)
-  * [Certificates](#certificates)
+  * [Progress](#comptia-progress)
+  * [Projects](#comptia-projects)
+  * [Certificates](#comptia-certificates)
 
   
 ## :notebook: About my work
 
 ## Boot dev
 
-### Progress
+### BootDev Progress
 <div align="left">
   <p>
     <b>Currently im working on a few different courses/projects on boot.dev:</b><br>
@@ -44,7 +44,7 @@ Hello wrld
     - Learn Memory management in C - 25/102
   </p>
   
-### Projects
+### BootDev Projects
 <div align="left">
   <h2>
     <a href="https://github.com/4seoul/bookbot"><strong>BookBot Project</strong></a>
@@ -81,7 +81,7 @@ Hello wrld
 </div>
 
   
-### Course certificates
+### BootDev certificates
 <div align="center">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7f343056-57f1-4cb6-b44b-db5fd66fe6cb.jpeg?v=1762514129" alt="Python intro certificate" width="500" height="600"/>
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/283e39c5-3a26-47a6-82d0-de440faf90d5.jpeg?v=1762954812" alt="Object orientated programming certificate" width="500" height="600"/>
@@ -93,16 +93,16 @@ Hello wrld
 
 ## Comptia
 
-### Progress
+### Comptia Progress
 <p>
   <b>Currently not working on any comptia courses..</b>
 </p>
   
-### Projects
+### Comptia Projects
 
 <p>n/a</p>
   
-### Certificates
+### Comptia Certificates
 
 <div align="center">
   <img src="https://github.com/user-attachments/files/25128533/CompTIA.Tech%2B.certificate.pdf" alt="comptia tech+ certification" width="500" height="600"/>
