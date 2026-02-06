@@ -95,7 +95,7 @@ Hello wrld
 
 ### Comptia Progress
 <p>
-  <b>Currently not working on any comptia courses..</b>
+  <b>Waiting on bugs in the a+ cyber course to be fixed</b>
 </p>
   
 ### Comptia Projects
@@ -106,7 +106,6 @@ Hello wrld
 
 <div align="center">
   <img src="https://github.com/user-attachments/files/25128533/CompTIA.Tech%2B.certificate.pdf" alt="comptia tech+ certification" width="500" height="600"/>
-  <p><b>currently waiting to finish my a+ cyber course</b></p>
 </div>
 
   
