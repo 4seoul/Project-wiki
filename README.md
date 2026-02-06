@@ -5,7 +5,7 @@ Hello wrld
 
 <div align="center">
 
-  <h1> My project Wiki </h1>
+  <h1> My projects and progress</h1>
 
 <!-- buttons -->
   <p>
