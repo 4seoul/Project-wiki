@@ -17,58 +17,95 @@ Hello wrld
 
   <!-- table -->
 
-  # Table of Contents
-
-   - [About My Work](#about-my-work)
+# :notebook_with_decorative_cover: Table of Contents
     
-    
-   - [Boot.dev](#boot-dev)
-     * [Progress](#progress)
-     * [Projects](#projects)
-     * [Certificates](#course-certificates)
+- [Boot.dev](#boot-dev)
+  * [Progress](#progress)
+  * [Projects](#projects)
+  * [Certificates](#course-certificates)
 
-   - [Comptia](#comptia)
-     * [Progress](#progress)
-     * [Projects](#projects)
-     * [Certificates](#certificates)
-
-  
-  ## About my work
-
-  ## Boot dev
-
-  ### Progress
-  
-  ### Projects
-  <div align="center">
-    <a href="https://github.com/4seoul/ai-agent-project" target="_blank">Repo Link</a>
-  </div>
+- [Comptia](#comptia)
+  * [Progress](#progress)
+  * [Projects](#projects)
+  * [Certificates](#certificates)
 
   
-  ### Course certificates
-  <div align="center">
-    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7f343056-57f1-4cb6-b44b-db5fd66fe6cb.jpeg?v=1762514129" alt="Python intro certificate" width="500" height="600"/>
-    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/283e39c5-3a26-47a6-82d0-de440faf90d5.jpeg?v=1762954812" alt="Object orientated programming certificate" width="500" height="600"/>
-    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4644c42a-bee8-4799-b2f9-e01f029c01b6.jpeg?v=1762527024" alt="Learn linux certificate" width="500" height="600"/>
-    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c5f69fea-eac6-4cf1-99dc-cda3b161c0eb.jpeg?v=1762166008" alt="Learn git certificate" width="500" height="600"/>
-    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9a1b9903-ec0f-434b-bc66-1123602613ca.jpeg?v=1768562339" alt="Functional programming python certificate" width="500" height="600"/>
-  </div>
+## :notebook: About my work
 
+## Boot dev
 
-  ## Comptia
-
-  ### Progress
-
-  meow meow
+### Progress
+<div align="left">
+  <p>
+    <b>Currently im working on a few different courses/projects on boot.dev:</b><br>
+    <br>
+    - Learn Data Structures and Algorithms in Python - 108/175<br>
+    - Build a static site Generator in Python 16/28<br>
+    - Learn Memory management in C - 25/102
+  </p>
   
-  ### Projects
+### Projects
+<div align="left">
+  <h2>
+    <a href="https://github.com/4seoul/bookbot"><strong>BookBot Project</strong></a>
+  </h2>
+  <p> 
+    This was the first boot.dev project I completed.<br>
+    <br>
+    Its a simple python program that reads a file and counts the words and chars inside of it<br>
+    <br>
+    Going through the code now, 5 months later, I can see how much my work and coding skill has improved. <br>
+  </p>
 
-  meow meow 
+  <h2>
+    <a href="https://github.com/4seoul/Asteroid-Project"><strong>Asteroid Project</strong></a>
+  </h2>
+  <p> 
+    This was the second project I completed<br>
+    <br>
+    The project is a pygame asteroid shooter game, with some cool functions and my first time using pygame and drawing actual sprites in python<br>
+    <br>
+    Again, when going through the code and adding comments, I can see many improvements in my skills.
+  </p>
   
-  ### Certificates
+  <h2>
+    <a href="https://github.com/4seoul/ai-agent-project"><strong>Ai Agent Project</strong></a>
+  </h2>
+  <p> 
+    In this project I created my own ai agent/chat bot capable of reading, writing and executing files within a specified directory.<br>
+    <br>
+    I enjoyed the complexity of the work and getting stuck into some more complex code.<br>
+    <br>
+    Unfortunately due to an accidental issue with the vm I was using for the project a second person is listed as a contributor in the repo, even though I was the only person who worked on the project.
+  </p>
+</div>
 
-  meow meow
+  
+### Course certificates
+<div align="center">
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7f343056-57f1-4cb6-b44b-db5fd66fe6cb.jpeg?v=1762514129" alt="Python intro certificate" width="500" height="600"/>
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/283e39c5-3a26-47a6-82d0-de440faf90d5.jpeg?v=1762954812" alt="Object orientated programming certificate" width="500" height="600"/>
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4644c42a-bee8-4799-b2f9-e01f029c01b6.jpeg?v=1762527024" alt="Learn linux certificate" width="500" height="600"/>
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c5f69fea-eac6-4cf1-99dc-cda3b161c0eb.jpeg?v=1762166008" alt="Learn git certificate" width="500" height="600"/>
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9a1b9903-ec0f-434b-bc66-1123602613ca.jpeg?v=1768562339" alt="Functional programming python certificate" width="500" height="600"/>
+</div>
 
 
+## Comptia
+
+### Progress
+<p>
+  <b>Currently not working on any comptia courses..</b>
+</p>
+  
+### Projects
+
+<p>n/a</p>
+  
+### Certificates
+
+<div align="center">
+  <img src="https://cp.certmetrics.com/comptia/en/public/verify/credential/TY1LV34Y7B1E2X8J" alt="Comptia Tech+ certification certificate" width="500" height="600"/>
+</div>
 
   
