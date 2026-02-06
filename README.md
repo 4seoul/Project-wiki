@@ -13,20 +13,24 @@ Hello wrld
     <img src="https://img.shields.io/github/last-commit/4seoul/Project-wiki" alt="last update" /> 
   </p>
 
+</div>
 
   <!-- table -->
 
   # Table of Contents
 
-   [About My Work](#about-my-work)
+   - [About My Work](#about-my-work)
     
     
-   - [boot.dev](#boot-dev)
+   - [Boot.dev](#boot-dev)
      * [Progress](#progress)
      * [Projects](#projects)
      * [Certificates](#certificates)
 
-   [comptia](#comptia)
+   - [Comptia](#comptia)
+     * [Progress](#progress)
+     * [Projects](#projects)
+     * [Certificates](#certificates)
 
   
   ## About my work
@@ -38,6 +42,10 @@ Hello wrld
   ### Certificates 
 
   ## comptia
+
+  ### Progress
+  ### Projects
+  ### Certificates
 
 
 
