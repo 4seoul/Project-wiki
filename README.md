@@ -105,7 +105,8 @@ Hello wrld
 ### Certificates
 
 <div align="center">
-  <img src="https://cp.certmetrics.com/comptia/en/public/verify/credential/TY1LV34Y7B1E2X8J" alt="Comptia Tech+ certification certificate" width="500" height="600"/>
+  <img src="https://github.com/user-attachments/files/25128533/CompTIA.Tech%2B.certificate.pdf" alt="comptia tech+ certification" width="500" height="600"/>
+  <p><b>currently waiting to finish my a+ cyber course</b></p>
 </div>
 
   
