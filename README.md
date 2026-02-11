@@ -5,7 +5,7 @@ Hello wrld
 
 <div align="center">
 
-  <h1> My projects and progress</h1>
+  <h1> My projects and Progress</h1>
 
 <!-- buttons -->
   <p>
@@ -30,9 +30,9 @@ Hello wrld
   * [Certificates](#comptia-certificates)
 
   
-## :notebook: About my work
+## :notebook: About my Work
 
-## Boot dev
+## Boot Dev
 
 ### BootDev Progress
 <div align="left">
@@ -81,7 +81,7 @@ Hello wrld
 </div>
 
   
-### BootDev course certificates
+### BootDev Course Certificates
 <div align="center">
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7f343056-57f1-4cb6-b44b-db5fd66fe6cb.jpeg?v=1762514129" alt="Python intro certificate" width="400" height="500"/>
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/283e39c5-3a26-47a6-82d0-de440faf90d5.jpeg?v=1762954812" alt="Object orientated programming certificate" width="400" height="500"/>
