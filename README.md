@@ -18,7 +18,14 @@ Hello wrld
   <!-- table -->
 
 # :notebook_with_decorative_cover: Table of Contents
-    
+
+| Boot.Dev      | Comptia      |
+|:------------- |:------------- |
+| [Progress](#bootdev-progress)| [Progress](#comptia-progress) |
+| [Projects](#bootdev-projects)| [Projects](#comptia-projects) |
+| [Certificates](#bootdev-course-certificates)| [Certificates](#comptia-certificates) |
+
+<!-- old table 
 - [Boot.dev](#boot-dev)
   * [Progress](#bootdev-progress)
   * [Projects](#bootdev-projects)
@@ -28,7 +35,7 @@ Hello wrld
   * [Progress](#comptia-progress)
   * [Projects](#comptia-projects)
   * [Certificates](#comptia-certificates)
-
+-->
   
 ## :notebook: About my Work
 
