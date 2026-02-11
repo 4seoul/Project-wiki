@@ -69,8 +69,6 @@ Hello wrld
     The project is a pygame asteroid shooter game, with some more complex and interesting functions and code.<br>
     <br>
     And my first time using pygame and drawing and creating sprites in python<br>
-    <br>
-    .
   </p>
   
   <h2>
