@@ -37,11 +37,11 @@ Hello wrld
 ### BootDev Progress
 <div align="left">
   <p>
-    <b>Currently im working on a few different courses/projects on boot.dev:</b><br>
+    <b>Currently im working on a few different boot.dev projects:</b><br>
     <br>
-    - Learn Data Structures and Algorithms in Python - 108/175<br>
-    - Build a static site Generator in Python 16/28<br>
-    - Learn Memory management in C - 25/102
+    - Learning Data Structures and Algorithms in Python<br>
+    - Building a static site Generator in Python<br>
+    - Learning Memory management in C
   </p>
   
 ### BootDev Projects
