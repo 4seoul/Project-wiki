@@ -50,33 +50,33 @@ Hello wrld
     <a href="https://github.com/4seoul/bookbot"><strong>BookBot Project</strong></a>
   </h2>
   <p> 
-    This was the first boot.dev project I completed.<br>
+    Its a simple python program that reads a file and counts the words and characters inside of it<br>
     <br>
-    Its a simple python program that reads a file and counts the words and chars inside of it<br>
-    <br>
-    Going through the code now, 5 months later, I can see how much my work and coding skill has improved. <br>
+    On reflection, I can see how much my skills have improved since this project <br>
   </p>
 
   <h2>
     <a href="https://github.com/4seoul/Asteroid-Project"><strong>Asteroid Project</strong></a>
   </h2>
   <p> 
-    This was the second project I completed<br>
+    The project is a pygame asteroid shooter game, with some more complex and interesting functions and code.<br>
     <br>
-    The project is a pygame asteroid shooter game, with some cool functions and my first time using pygame and drawing actual sprites in python<br>
+    And my first time using pygame and drawing and creating sprites in python<br>
     <br>
-    Again, when going through the code and adding comments, I can see many improvements in my skills.
+    .
   </p>
   
   <h2>
     <a href="https://github.com/4seoul/ai-agent-project"><strong>Ai Agent Project</strong></a>
   </h2>
   <p> 
-    In this project I created my own ai agent/chat bot capable of reading, writing and executing files within a specified directory.<br>
+    In this project I created my own ai agent which is similar to ai chat bots like chatgpt.<br>
+    <br>
+    The agent is capable of reading, writing and executing files within a specified directory.<br>
     <br>
     I enjoyed the complexity of the work and getting stuck into some more complex code.<br>
     <br>
-    Unfortunately due to an accidental issue with the vm I was using for the project a second person is listed as a contributor in the repo, even though I was the only person who worked on the project.
+    <sub>Unfortunately due to an accidental issue with the vm I was using for the project a second person is listed as a contributor in the repo, even though I was the only person who worked on the project.</sub>
   </p>
 </div>
 
@@ -95,7 +95,7 @@ Hello wrld
 
 ### Comptia Progress
 <p>
-  <b>Waiting on bugs in the a+ cyber course to be fixed</b>
+  <b>Waiting on bugs in the a+ cyber course to be fixed in order for me to finish.</b>
 </p>
   
 ### Comptia Projects
