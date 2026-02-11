@@ -57,7 +57,7 @@ Hello wrld
     <a href="https://github.com/4seoul/bookbot"><strong>BookBot Project</strong></a>
   </h2>
   <p> 
-    Its a simple python program that reads a file and counts the words and characters inside of it<br>
+    Its a simplistic python program that reads a text file and returns the word count and character count<br>
     <br>
     On reflection, I can see how much my skills have improved since this project <br>
   </p>
