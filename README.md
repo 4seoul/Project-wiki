@@ -39,12 +39,16 @@ Hello wrld
   
 ## :notebook: About my Work
 
+## Future Projects
+
+I Am planning on combining the ai agent project and the static site generator project together to creat an ai agent capable of writing code for its own static site and then hosting itself.
+
 ## Boot Dev
 
 ### BootDev Progress
 <div align="left">
   <p>
-    <b>Currently im working on a few different boot.dev projects:</b><br>
+    <b>Currently I'm working on a few different boot.dev projects:</b><br>
     <br>
     - Learning Data Structures and Algorithms in Python<br>
     - Building a static site Generator in Python<br>
@@ -80,8 +84,6 @@ Hello wrld
     The agent is capable of reading, writing and executing files within a specified directory.<br>
     <br>
     I enjoyed the complexity of the work and getting stuck into some more complex code.<br>
-    <br>
-    <sub>Unfortunately due to an accidental issue with the vm I was using for the project a second person is listed as a contributor in the repo, even though I was the only person who worked on the project.</sub>
   </p>
 </div>
 
