@@ -5,7 +5,7 @@ Hello wrld
 
 <div align="center">
 
-  <h1> My projects and Progress</h1>
+  <h1> My Projects And Progress</h1>
 
 <!-- buttons -->
   <p>
@@ -17,7 +17,7 @@ Hello wrld
 
   <!-- table -->
 
-# :notebook_with_decorative_cover: Table of Contents
+# :notebook_with_decorative_cover: Table Of Contents
 
 | Boot.Dev      | Comptia      |
 |:------------- |:------------- |
@@ -37,18 +37,18 @@ Hello wrld
   * [Certificates](#comptia-certificates)
 -->
   
-## :notebook: About my Work
+## :notebook: About My Work
 
 ## Future Projects
 
-I Am planning on combining the ai agent project and the static site generator project together to creat an ai agent capable of writing code for its own static site and then hosting itself.
+I am planning on combining the Ai agent project and the static site generator project together to creat an ai agent capable of writing code for its own static site and then hosting itself.
 
 ## Boot Dev
 
 ### BootDev Progress
 <div align="left">
   <p>
-    <b>Currently I'm working on a few different boot.dev projects:</b><br>
+    <b>Currently I am making progress on a few different boot.dev projects:</b><br>
     <br>
     - Learning Data Structures and Algorithms in Python<br>
     - Building a static site Generator in Python<br>
