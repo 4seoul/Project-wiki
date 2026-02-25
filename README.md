@@ -51,8 +51,7 @@ I am planning on combining the Ai agent project and the static site generator pr
     <b>Currently I am making progress on a few different boot.dev projects:</b><br>
     <br>
     - Learning Data Structures and Algorithms in Python<br>
-    - Building a static site Generator in Python<br>
-    - Learning Memory management in C
+    - Learning Memory Management in C
   </p>
   
 ### BootDev Projects
@@ -72,7 +71,7 @@ I am planning on combining the Ai agent project and the static site generator pr
   <p> 
     The project is a pygame asteroid shooter game, with some more complex and interesting functions and code.<br>
     <br>
-    And my first time using pygame and drawing and creating sprites in python<br>
+    It was my first time using pygame aswell as drawing and creating sprites in python<br>
   </p>
   
   <h2>
@@ -84,6 +83,16 @@ I am planning on combining the Ai agent project and the static site generator pr
     The agent is capable of reading, writing and executing files within a specified directory.<br>
     <br>
     I enjoyed the complexity of the work and getting stuck into some more complex code.<br>
+  </p>
+
+  <h2>
+    <a href="https://github.com/4seoul/static-site"><strong>Static Site Generator Project</strong></a>
+  </h2>
+  <p> 
+    In this project I created A static site generator, which takes markdown files, converts and formats them into html pages and then hosts them.<br>
+    <br>
+    Some areas of the project involved working with multiple different coding languages, making it an interesting project to work on.<br>
+    <br>
   </p>
 </div>
 
