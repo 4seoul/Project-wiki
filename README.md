@@ -82,7 +82,7 @@ I am planning on combining the Ai agent project and the static site generator pr
     <br>
     The agent is capable of reading, writing and executing files within a specified directory.<br>
     <br>
-    I enjoyed the complexity of the work and getting stuck into some more complex code.<br>
+    I enjoyed the complexity of the work and getting stuck into some more advanced code.<br>
   </p>
 
   <h2>
