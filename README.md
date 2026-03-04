@@ -41,7 +41,7 @@ Hello wrld
 
 ## Future Projects
 
-I am planning on combining the Ai agent project and the static site generator project together to creat an ai agent capable of writing code for its own static site and then hosting itself.
+I am planning on combining the Ai agent project and the static site generator project together to create an ai agent capable of writing code for its own static site and then hosting itself.
 
 ## Boot Dev
 
