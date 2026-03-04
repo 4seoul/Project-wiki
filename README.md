@@ -104,6 +104,7 @@ I am planning on combining the Ai agent project and the static site generator pr
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4644c42a-bee8-4799-b2f9-e01f029c01b6.jpeg?v=1762527024" alt="Learn linux certificate" width="400" height="500"/>
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c5f69fea-eac6-4cf1-99dc-cda3b161c0eb.jpeg?v=1762166008" alt="Learn git certificate" width="400" height="500"/>
   <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/9a1b9903-ec0f-434b-bc66-1123602613ca.jpeg?v=1768562339" alt="Functional programming python certificate" width="400" height="500"/>
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/50d52f8b-e826-466b-af16-7907d4aaf806.jpeg?v=1772633854)" alt="Learn data structures and algorithms python certificate" width="400" height="500"/>
 </div>
 
 
