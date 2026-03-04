@@ -50,7 +50,6 @@ I am planning on combining the Ai agent project and the static site generator pr
   <p>
     <b>Currently I am making progress on a few different boot.dev projects:</b><br>
     <br>
-    - Learning Data Structures and Algorithms in Python<br>
     - Learning Memory Management in C
   </p>
   
@@ -89,7 +88,7 @@ I am planning on combining the Ai agent project and the static site generator pr
     <a href="https://github.com/4seoul/static-site"><strong>Static Site Generator Project</strong></a>
   </h2>
   <p> 
-    In this project I created A static site generator, which takes markdown files, converts and formats them into html pages and then hosts them.<br>
+    In this project I created A static site generator, which takes markdown files, converts and formats them into html pages and then locally hosts them.<br>
     <br>
     Some areas of the project involved working with multiple different coding languages, making it an interesting project to work on.<br>
     <br>
