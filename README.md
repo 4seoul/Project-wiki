@@ -41,7 +41,7 @@ Hello wrld
 
 ## Future Projects
 
-I am planning on combining the Ai agent project and the static site generator project together to create an ai agent capable of writing code for its own static site and then hosting itself.
+I am planning on doing some work on a personal website/blog which would allow me to keep a more detailed progress report of my work with more frequent updates.
 
 ## Boot Dev
 
@@ -54,7 +54,7 @@ I am planning on combining the Ai agent project and the static site generator pr
   <p>
     <b>Currently I am making progress on a few different boot.dev projects:</b><br>
     <br>
-    - Learning Memory Management in C
+    - Leaning Go
   </p>
   
 ### BootDev Projects
@@ -95,6 +95,16 @@ I am planning on combining the Ai agent project and the static site generator pr
     In this project I created A static site generator, which takes markdown files, converts and formats them into html pages and then locally hosts them.<br>
     <br>
     Some areas of the project involved working with multiple different coding languages, making it an interesting project to work on.<br>
+    <br>
+  </p>
+
+  <h2>
+    <a href="https://github.com/4seoul/web-scraper"><strong>Python Web Crawler</strong></a>
+  </h2>
+  <p>
+    In this project I created a custom web crawler, that when given a website will scrape all html code and on the site and convert it into json data, which is then sorted and output to a file<br>
+    <br>
+    I enjoyed the project although it didn't take me as long as I expected it still introduced me to some new areas in python I have yet to cover.
     <br>
   </p>
 </div>
