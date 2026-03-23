@@ -125,7 +125,7 @@ I am planning on doing some work on a personal website/blog which would allow me
 
 ### Comptia Progress
 <p>
-  <b>Waiting on bugs in the a+ cyber course to be fixed in order for me to finish.</b>
+  <b>Finished A+ cyber waiting to see what is next</b>
 </p>
   
 ### Comptia Projects
@@ -136,6 +136,5 @@ I am planning on doing some work on a personal website/blog which would allow me
 
 <div align="center">
   <img src="https://github.com/user-attachments/files/25128533/CompTIA.Tech%2B.certificate.pdf" alt="comptia tech+ certification" width="500" height="600"/>
+  <img src="https://github.com/user-attachments/files/26183465/Certificate.pdf" alt="comptia A+ cyber" width="500" height="600"/>
 </div>
-
-  
